@@ -193,6 +193,7 @@ transform: rotate3d(1,0,0,70deg);
   .up{
     width: 15vw;
     height: 10vw;
+    border-radius: 10vw 10vw 0 0;
   }
   
 }
