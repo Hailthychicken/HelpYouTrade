@@ -181,10 +181,18 @@ transform: rotate3d(1,0,0,70deg);
   height: 45vh;
   }
   .planet_ctn{
-    width: 30vw;
- height: 30vw;
+    width: 20vw;
+ height: 20vw;
  top:10vh;
  left: 68vw;
+  }
+  .planet{
+    width: 15vw;
+    height: 15vw;
+  }
+  .up{
+    width: 15vw;
+    height: 10vw;
   }
   
 }
