@@ -65,6 +65,13 @@ section{
 .btn{
     color: black;
     border: none;
+    cursor: pointer;
+  }
+  .redBTN:active{
+    background-color: rgb(230, 0, 0);
+  }
+  .blueBTN:active{
+    background-color: rgb(0, 0, 230);
   }
 .blueBTN{
   width: 50%;
